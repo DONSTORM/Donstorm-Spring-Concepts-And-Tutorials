@@ -1,2 +1,3 @@
-# Donstorm-Spring-Java15
-This Repository is for Spring Practice
+# Donstorm-Spring-Concepts-And-Tutorials
+This Repository is for practicing spring concepts
+
